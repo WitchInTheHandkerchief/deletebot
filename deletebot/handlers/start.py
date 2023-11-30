@@ -1,5 +1,4 @@
 from aiogram.dispatcher import FSMContext
-from aiogram.dispatcher.filters import state
 from aiogram.types import Message
 
 from deletebot.config import dp
